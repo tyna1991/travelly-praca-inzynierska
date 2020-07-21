@@ -1,0 +1,8 @@
+node_modules
+.env
+app.yaml
+backend/.env
+backend/env.json
+backend/.env.yaml
+
+

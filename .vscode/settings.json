@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/9a914f14-129d-4338-a826-3a8122e0f4bd/resourceGroups/AppServiceQS-rg/providers/Microsoft.Web/sites/travelly"
+}

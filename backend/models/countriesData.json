@@ -1,0 +1,55 @@
+[{
+        "code": "AL",
+        "name": "Albania",
+        "language": "albański",
+        "capitalCity": "Tirana",
+        "currency": "Lek",
+        "UE": "0",
+        "religion": "islam"
+    },
+    {
+        "code": "AD",
+        "name": "Andora",
+        "language": "kataloński",
+        "capitalCity": "Andora",
+        "currency": "euro",
+        "UE": "0",
+        "religion": "rzymski katolicyzm"
+    },
+    {
+        "code": "AT",
+        "name": "Austria",
+        "language": "niemiecki",
+        "capitalCity": "Wiedeń",
+        "currency": "euro",
+        "UE": "1",
+        "religion": "katolicyzm"
+    },
+    {
+        "code": "BE",
+        "name": "Belgia",
+        "language": "niderlandzki, francuski, niemiecki",
+        "capitalCity": "Bruksela",
+        "currency": "euro",
+        "UE": "1",
+        "religion": "katolicyzm"
+    },
+    {
+        "code": "BY",
+        "name": "Białoruś",
+        "language": "białoruski, rosyjski",
+        "capitalCity": "Mińsk",
+        "currency": "rubel białoruski",
+        "UE": "0",
+        "religion": "prawosławie"
+    },
+    {
+        "code": "BA",
+        "name": "Bośnia i Hercegowina",
+        "language": "bośniacki, chorwacki, serbski",
+        "capitalCity": "Sarajewo",
+        "currency": "marka zamienna",
+        "UE": "0",
+        "religion": "chrześcijaństwo, islam"
+    }
+]
